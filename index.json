@@ -1,0 +1,11 @@
+{
+  "org": "bottlepy",
+  "repo": "bottle-inject",
+  "versions": [
+    {
+      "commit": "321d7f45be70a2afb412c2d93022151e454f4757",
+      "tag": "",
+      "parsed_at": "2026-10-11T07:46:16.956971+00:00"
+    }
+  ]
+}
