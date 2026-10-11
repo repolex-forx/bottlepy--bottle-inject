@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "bottlepy",
+  "repo": "bottle-inject",
+  "versions": [
+    {
+      "commit": "321d7f45be70a2afb412c2d93022151e454f4757",
+      "parsed_at": "2026-10-11T07:44:16.591876+00:00",
+      "filetree": "filetree/321d7f45be70a2afb412c2d93022151e454f4757.nq.gz",
+      "blobs": [
+        "blob/b3f768abc899278f18f3ce5a727694b33e2ce742.nq.gz",
+        "blob/5f3e8de3a2e3321bfb79e60f62d3fa2daaa6aefe.nq.gz",
+        "blob/774b8b4fb6039490f6972d3a86c569b1cdef0932.nq.gz",
+        "blob/26a5f2f50f7de3549527a035f7c7e3834ea6c570.nq.gz",
+        "blob/21ba1e2ecd55c9b066b1e369eb8d3f67f21c946f.nq.gz",
+        "blob/463c8ae890f24db3f57345653d8f9e40c05f796b.nq.gz",
+        "blob/b8d7c5842e70dc622d06d6e2298333a5686076f3.nq.gz",
+        "blob/c0dcfb92b7b12a67f7ef284bac85a811db3dcf0a.nq.gz",
+        "blob/1b5125ccca3bea5b6b8edff33d0dc79bd4f0ecf5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
